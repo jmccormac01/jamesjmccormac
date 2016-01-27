@@ -1,0 +1,3 @@
+ideas:
+	can we correct the WASP-115 RM obs as suggested by Gzregorz?
+	can we use Cafe to do good RVs of the EBLMs?

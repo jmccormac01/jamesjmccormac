@@ -1,0 +1,420 @@
+<!doctype html>
+<html>
+<head>
+    <title>Publications</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="css/main.css" type="text/css">
+</head>
+
+<!-- Make classes for papers (ref & non-ref), talks, ATel -->
+
+<body>
+    <div id='main'>
+        <div class='fixedwidth'>
+            <div id='topbar'>
+                <!-- NAV -->
+                <?php
+                    include("includes/nav.html");
+                ?>
+            </div>    
+            
+            <div id='publications'>
+                <h2>2015</h2>
+                    <div class='paper'>
+                        <p class='title'>K2 Variable Catalogue II: Machine Learning Classification of Variable Stars and Eclipsing Binaries in K2 Fields 0-4</p>
+                        <p class='authors'> Armstrong, D. J.; Kirk, J.; Lam, K. W. F.; <strong>McCormac, J.</strong>; Osborn, H. P.; Spake, J.; Walker, S.; 
+                                            Brown, D. J. A.; Kristiansen, M. H.; Pollacco, D.; West, R.; Wheatley, P. J.</p>
+                        <p class='date'> December 2015</p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2015arXiv151201246A">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'>Photodynamical mass determination of the multiplanetary system K2-19</p>
+                        <p class='authors'> Barros, S. C. C.; Almenara, J. M.; Demangeon, O.; Tsantaki, M.; Santerne, A.; Armstrong, D. J.; Barrado, D.; 
+                                            Brown, D.; Deleuil, M.; Lillo-Box, J.; Osborn, H.; Pollacco, D.; Abe, L.; Andre, P.; Bendjoya, P.; Boisse, I.; 
+                                            Bonomo, A. S.; Bouchy, F.; Bruno, G.; Cerda, J. Rey; Courcol, B.; Díaz, R. F.; Hébrard, G.; Kirk, J.; Lachurié, J. C.; 
+                                            Lam, K. W. F.; Martinez, P.; <strong>McCormac, J.</strong>; Moutou, C.; Rajpurohit, A.; Rivet, J.-P.; Spake, J.; Suarez, O.; 
+                                            Toublanc, D.; Walker, S. R.</p>
+                        <p class='date'> December 2015</p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2015MNRAS.454.4267B">ADS</a>
+                        </p>
+                    </div>    
+
+                    <div class='paper'>
+                        <p class='title'>SN 2014J at M82: I. A middle-class type Ia supernova by all spectroscopic metrics</p>
+                        <p class='authors'> Galbany, L.; Moreno-Raya, M. E.; Ruiz-Lapuente, P.; González Hernández, 
+                                            J. I.; Méndez, J.; Vallely, P.; Baron, E.; Domínguez, I.; Hamuy, M.; López-Sánchez, 
+                                            A. R.; Mollá, M.; Catalán, S.; Cooke, E. A.; Fariña, C.; Génova-Santos, R.; 
+                                            Karjalainen, R.; Lietzen, H.; <strong>McCormac, J.</strong>; Riddick, F. C.; Rubiño-Martín, J. A.; 
+                                            Skillen, I.; Tudor, V.; Vaduvescu, O.</p>
+                        <p class='date'> October 2015</p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2015arXiv151006596G">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'>Single Transit Candidates from K2: Detection and Period Estimation</p>
+                        <p class='authors'> Osborn, H. P.; Armstrong, D. J.; Brown, D. J. A.; <strong>McCormac, J.</strong>; Doyle, A. P.; Louden, T. M.; Kirk, J.;  
+                                            Spake, J. J.; Lam, K. W. F.; Walker, S. R.; Faedi, F.; Pollacco, D. L.</p>
+                        <p class='date'> December 2015</p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2015arXiv151203722O">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'>Supernova 2014J at M82: II. Direct Analysis of Spectra Obtained with Isaac Newton and William Herschel Telescopes</p>
+                        <p class='authors'> Vallely, Patrick; Moreno-Raya, M. E.; Baron, E.; Ruiz-Lapuente, Pilar; Dominguez, I.; Galbany, Lluis; 
+                                            Gonzalez Hernandez, J. I.; Mendez, J.; Hamuy, M.; Lopez-Sanchez, A. R.; Catalan, S.; Cooke, E.; Farina, C.; 
+                                            Genova-Santos, R.; Karjalainen, R.; Lietzen, H.; <strong>McCormac, J.</strong>; Riddick, F.; Rubino-Martin, J. A.; Tudor, 
+                                            V.; Skillen I.; Vaduvescu, O. </p>
+                        <p class='date'> December 2015 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2015arXiv151202608V">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'>Characterization of the K2-19 Multiple-transiting Planetary System via High-dispersion Spectroscopy, AO Imaging, and Transit Timing Variations</p>
+                        <p class='authors'> Narita, Norio; Hirano, Teruyuki; Fukui, Akihiko; Hori, Yasunori; Sanchis-Ojeda, Roberto; Winn, Joshua N.; Ryu, Tsuguru; 
+                                            Kusakabe, Nobuhiko; Kudo, Tomoyuki; Onitsuka, Masahiro; Delrez, Laetitia; Gillon, Michael; Jehin, Emmanuel; <strong>McCormac, James</strong>; 
+                                            Holman, Matthew; Izumiura, Hideyuki; Takeda, Yoichi; Tamura, Motohide; Yanagisawa, Kenshi </p>
+                        <p class='date'> December 2015 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2015ApJ...815...47N">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> WASP-135b: a highly irradiated, inflated hot Jupiter orbiting a G5V star </p>
+                        <p class='authors'> Spake, Jessica J.; Brown, David J. A.; Doyle, Amanda P.; Hébrard, Guillaume; <strong>McCormac, James</strong>; Armstrong, David J.; 
+                                            Pollacco, Don; Gómez Maqueo Chew, Yilen; Anderson, David R.; Barros, Susana C. C.; Bouchy, François; Boumis, Panayotis; 
+                                            Bruno, Giovanni; Collier Cameron, Andrew; Courcol, Bastien; Davies, Guy R.; Faedi, Francesca; Hellier, Coel; Kirk, James; 
+                                            Lam, Kristine W. F.; Liakos, Alexios; Louden, Tom; Maxted, Pierre F. L.; Osborn, Hugh P.; Palle, Enric; Prieto Arranz, Jorge; 
+                                            Udry, Stéphane; Walker, Simon R.; West, Richard G.; Wheatley, Peter J. </p>
+                        <p class='date'> November 2015 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2015arXiv151105954S">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> One of the closest exoplanet pairs to the 3:2 mean motion resonance: K2-19b and c </p>
+                        <p class='authors'> Armstrong, David J.; Santerne, Alexandre; Veras, Dimitri; Barros, Susana C. C.; Demangeon, Olivier; Lillo-Box, Jorge; <strong>McCormac, James</strong>; 
+                                            Osborn, Hugh P.; Tsantaki, Maria; Almenara, José-Manuel; Barrado, David; Boisse, Isabelle; Bonomo, Aldo S.; Brown, David J. A.; 
+                                            Bruno, Giovanni; Rey Cerda, Javiera; Courcol, Bastien; Deleuil, Magali; Díaz, Rodrigo F.; Doyle, Amanda P.; Hébrard, Guillaume; 
+                                            Kirk, James; Lam, Kristine W. F.; Pollacco, Don L.; Rajpurohit, Arvind; Spake, Jessica; Walker, Simon R. </p>
+                        <p class='date'> October 2015 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2015A%26A...582A..33A">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> K2 Variable Catalogue: Variable stars and eclipsing binaries in K2 campaigns 1 and 0 </p>
+                        <p class='authors'> Armstrong, D. J.; Kirk, J.; Lam, K. W. F.; <strong>McCormac, J.</strong>; Walker, S. R.; Brown, D. J. A.; Osborn, H. P.; Pollacco, D. L.; Spake, J. </p>
+                        <p class='date'> July 2015 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2015A%26A...579A..19A">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> Subaru and Swift observations of V652 Herculis: resolving the photospheric pulsation </p>
+                        <p class='authors'> Jeffery, C. S.; Kurtz, D.; Shibahashi, H.; Starling, R. L. C.; Elkin, V.; Montañés-Rodríguez, P.; <strong>McCormac, J.</strong> </p>
+                        <p class='date'> March 2015 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2015MNRAS.447.2836J">ADS</a>
+                        </p>
+                    </div>
+
+                <h2>2014</h2> 
+
+                    <div class='paper'>
+                        <p class='title'> The next generation transit survey prototyping phase </p>
+                        <p class='authors'> <strong>McCormac, J.</strong>; Pollacco, P.; The NGTS Consortium </p>
+                        <p class='date'> December 2014 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2014RMxAC..45...98M">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> The EBLM project. II. A very hot, low-mass M dwarf in an eccentric and long-period, eclipsing binary system from the SuperWASP Survey </p>
+                        <p class='authors'> Gómez Maqueo Chew, Y.; Morales, J. C.; Faedi, F.; García-Melendo, E.; Hebb, L.; Rodler, F.; Deshpande, R.; Mahadevan, S.; 
+                                            <strong>McCormac, J.</strong>; Barnes, R.; Triaud, A. H. M. J.; Lopez-Morales, M.; Skillen, I.; Collier Cameron, A.; Joner, M. D.; Laney, C. D.; 
+                                            Stephens, D. C.; Stassun, K. G.; Cargile, P. A.; Montañés-Rodríguez, P. </p>
+                        <p class='date'> December 2014 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2014A%26A...572A..50G">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> A window on exoplanet dynamical histories: Rossiter-McLaughlin observations of WASP-13b and WASP-32b </p>
+                        <p class='authors'> Brothwell, R. D.; Watson, C. A.; Hébrard, G.; Triaud, A. H. M. J.; Cegla, H. M.; Santerne, A.; Hébrard, E.; Anderson, D. R.; Pollacco, D.; 
+                                            Simpson, E. K.; Bouchy, F.; Brown, D. J. A.; Chew, Y. Gómez Maqueo; Cameron, A. Collier; Armstrong, D. J.; Barros, S. C. C.; Bento, J.; 
+                                            Bochinski, J.; Burwitz, V.; Busuttil, R.; Delrez, L.; Doyle, A. P.; Faedi, F.; Fumel, A.; Gillon, M.; Haswell, C. A.; Hellier, C.; Jehin, E.; 
+                                            Kolb, U.; Lendl, M.; Liebig, C.; Maxted, P. F. L.; <strong>McCormac, J.</strong>; Miller, G. R. M.; Norton, A. J.; Pepe, F.; Queloz, D.; Rodríguez, J.; Ségransan, D.; 
+                                            Skillen, I.; Smalley, B.; Stassun, K. G.; Udry, S.; West, R. G.; Wheatley, P. J. </p>
+                        <p class='date'> June 2014 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2014MNRAS.440.3392B">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> A search for photometric variability towards M71 with the Near-Infrared Transiting ExoplanetS Telescope </p>
+                        <p class='authors'> <strong>McCormac, J.</strong>; Skillen, I.; Pollacco, 
+                                            D.; Faedi, F.; Ramsay, G.; Dhillon, V. S.; Todd, I.; Gonzalez, A. </p>
+                        <p class='date'> March 2014 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2014MNRAS.438.3383M">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> Next Generation Transit Survey (NGTS) </p>
+                        <p class='authors'> Wheatley, Peter J.; Pollacco, Don L.; Queloz, Didier; Rauer, Heike; Watson, Christopher A.; West, Richard G.; 
+                                            Chazelas, Bruno; Louden, Tom M.; Bannister, Nigel; Bento, Joao; Burleigh, Matthew; Cabrera, Juan; Eigmüller, Philipp; 
+                                            Erikson, Anders; Genolet, Ludovic; Goad, Michael; Grange, Andrew; Jordán, Andrés; Lawrie, Katherine; <strong>McCormac, James</strong>; 
+                                            Neveu, Marion; Walker, Simon </p>
+                        <p class='date'> January 2014 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2014IAUS..299..311W">ADS</a>
+                        </p>
+                    </div>
+
+                <h2>2013</h2> 
+
+                    <div class='paper'>
+                        <p class='title'> Discovery of WASP-65b and WASP-75b: Two hot Jupiters without highly inflated radii </p>
+                        <p class='authors'> Gómez Maqueo Chew, Y.; Faedi, F.; Pollacco, D.; Brown, D. J. A.; Doyle, A. P.; Collier Cameron, A.; Gillon, M.; Lendl, M.; 
+                                            Smalley, B.; Triaud, A. H. M. J.; West, R. G.; Wheatley, P. J.; Busuttil, R.; Liebig, C.; Anderson, D. R.; Armstrong, D. J.; 
+                                            Barros, S. C. C.; Bento, J.; Bochinski, J.; Burwitz, V.; Delrez, L.; Enoch, B.; Fumel, A.; Haswell, C. A.; Hébrard, G.; 
+                                            Hellier, C.; Holmes, S.; Jehin, E.; Kolb, U.; Maxted, P. F. L.; <strong>McCormac, J.</strong>; Miller, G. R. M.; Norton, A. J.; Pepe, F.; 
+                                            Queloz, D.; Rodríguez, J.; Ségransan, D.; Skillen, I.; Stassun, K. G.; Udry, S.; Watson, C. </p>
+                        <p class='date'> November 2013 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2013A%26A...559A..36G">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> Discovery of Five Probable Novae in M81 </p>
+                        <p class='authors'> Hornoch, K.; Vaduvescu, O.; Dominguez, L.; <strong>McCormac, J.</strong>; Mocnik, T.; Ramanjooloo, Y.; Fusillo, N. Gentile; Doostmohammadi, S. </p>
+                        <p class='date'> October 2013 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2013ATel.5489....1H">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> Discovery of Two Apparent Novae in M81 </p>
+                        <p class='authors'> Hornoch, K.; <strong>McCormac, J.</strong>; Vaduvescu, O. </p>
+                        <p class='date'> June 2013 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2013ATel.5109....1H">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> DONUTS: A Science Frame Autoguiding Algorithm with Sub-Pixel Precision, Capable of Guiding on Defocused Stars </p>
+                        <p class='authors'> <strong>McCormac, J.</strong>; Pollacco, D.; Skillen, I.; Faedi, F.; Todd, 
+                                            I.; Watson, C. A. </p>
+                        <p class='date'> May 2013 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2013PASP..125..548M">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> The Next Generation Transit Survey (NGTS) </p>
+                        <p class='authors'> Wheatley, Peter J.; Pollacco, Don L.; Queloz, Didier; Rauer, Heike; Watson, Christopher A.; West, Richard G.; 
+                                            Chazelas, Bruno; Louden, Tom M.; Walker, Simon; Bannister, Nigel; Bento, Joao; Burleigh, Matthew; Cabrera, Juan; 
+                                            Eigmüller, Philipp; Erikson, Anders; Genolet, Ludovic; Goad, Michael; Grange, Andrew; Jordán, Andrés; Lawrie, Katherine; 
+                                            <strong>McCormac, James</strong>; Neveu, Marion </p>
+                        <p class='date'> April 2013 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2013EPJWC..4713002W">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> WASP-54b, WASP-56b, and WASP-57b: Three new sub-Jupiter mass planets from SuperWASP </p>
+                        <p class='authors'> Faedi, F.; Pollacco, D.; Barros, S. C. C.; Brown, D.; Collier Cameron, A.; Doyle, A. P.; Enoch, R.; Gillon, M.; Gómez Maqueo Chew, Y.; 
+                                            Hébrard, G.; Lendl, M.; Liebig, C.; Smalley, B.; Triaud, A. H. M. J.; West, R. G.; Wheatley, P. J.; Alsubai, K. A.; Anderson, D. R.; 
+                                            Armstrong, D.; Bento, J.; Bochinski, J.; Bouchy, F.; Busuttil, R.; Fossati, L.; Fumel, A.; Haswell, C. A.; Hellier, C.; Holmes, S.; 
+                                            Jehin, E.; Kolb, U.; <strong>McCormac, J.</strong>; Miller, G. R. M.; Moutou, C.; Norton, A. J.; Parley, N.; Queloz, D.; Santerne, A.; Skillen, I.; 
+                                            Smith, A. M. S.; Udry, S.; Watson, C. </p>
+                        <p class='date'> March 2013 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2013A%26A...551A..73F">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> WASP-52b, WASP-58b, WASP-59b, and WASP-60b: Four new transiting close-in giant planets </p>
+                        <p class='authors'> Hébrard, G.; Collier Cameron, A.; Brown, D. J. A.; Díaz, R. F.; Faedi, F.; Smalley, B.; Anderson, D. R.; Armstrong, D.; Barros, S. C. C.; 
+                                            Bento, J.; Bouchy, F.; Doyle, A. P.; Enoch, B.; Gómez Maqueo Chew, Y.; Hébrard, É. M.; Hellier, C.; Lendl, M.; Lister, T. A.; Maxted, P. F. L.; 
+                                            <strong>McCormac, J.</strong>; Moutou, C.; Pollacco, D.; Queloz, D.; Santerne, A.; Skillen, I.; Southworth, J.; Tregloan-Reed, J.; Triaud, A. H. M. J.; Udry, S.; 
+                                            Vanhuysse, M.; Watson, C. A.; West, R. G.; Wheatley, P. J. </p>
+                        <p class='date'> January 2013 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2013A%26A...549A.134H">ADS</a>
+                        </p>
+                    </div>
+
+                <h2>2012</h2>
+
+                    <div class='paper'>
+                        <p class='title'> A hot Uranus transiting the nearby M dwarf GJ 3470. Detected with HARPS velocimetry. Captured in transit with TRAPPIST photometry </p>
+                        <p class='authors'> Bonfils, X.; Gillon, M.; Udry, S.; Armstrong, D.; Bouchy, F.; Delfosse, X.; Forveille, T.; Fumel, A.; Jehin, E.; Lendl, M.; Lovis, C.; Mayor, M.; 
+                                            <strong>McCormac, J.</strong>; Neves, V.; Pepe, F.; Perrier, C.; Pollaco, D.; Queloz, D.; Santos, N. C. </p>
+                        <p class='date'> October 2012 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2012A%26A...546A..27B">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> NGTS: a robotic transit survey to detect Neptune and super-Earth mass planets </p>
+                        <p class='authors'> Chazelas, Bruno; Pollacco, Don; Queloz, Didier; Rauer, Heike; Wheatley, Peter J.; 
+                                            West, Richard; Da Silva Bento, Joao; Burleigh, Matthew; <strong>McCormac, James</strong>; Eigmüller, Philipp; 
+                                            Erikson, Anders; Genolet, Ludovic; Goad, Mike; Jordán, Andrés.; Neveu, Marion; Walker, Simon </p>
+                        <p class='date'> September 2012 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2012SPIE.8444E..0EC">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> A transiting companion to the eclipsing binary KIC002856960 </p>
+                        <p class='authors'> Armstrong, D.; Pollacco, D.; Watson, C. A.; Faedi, F.; Gómez Maqueo Chew, Y.; Cegla, H. M.; McDaid, P.; 
+                                            Burton, J.; <strong>McCormac, J.</strong>; Skillen, I. </p>
+                        <p class='date'> September 2012 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2012A%26A...545L...4A">ADS</a>
+                        </p>
+                    </div>
+
+                <h2>2011</h2>
+
+                    <div class='paper'>
+                        <p class='title'> New transiting exoplanets from the SuperWASP-North survey </p>
+                        <p class='authors'> Faedi, Francesca; Barros, Susana C. C.; Pollacco, Don; Simpson, Elaine K.; <strong>McCormac, James</strong>; Moulds, Victoria; Watson, Chris; 
+                                            Todd, Ian; Keenan, F.; Fitzsimmons, Alan; Chew, Yilen Gómez Maqueo </p>
+                        <p class='date'> November 2011 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2011IAUS..276..143F">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> WASP-35b, WASP-48b, and HAT-P-30b/WASP-51b: Two New Planets and an Independent Discovery of a Hat Planet </p>
+                        <p class='authors'> Enoch, B.; Anderson, D. R.; Barros, S. C. C.; Brown, D. J. A.; Collier Cameron, A.; Faedi, F.; Gillon, M.; Hébrard, G.; Lister, T. A.; 
+                                            Queloz, D.; Santerne, A.; Smalley, B.; Street, R. A.; Triaud, A. H. M. J.; West, R. G.; Bouchy, F.; Bento, J.; Butters, O.; Fossati, L.; 
+                                            Haswell, C. A.; Hellier, C.; Holmes, S.; Jehin, E.; Lendl, M.; Maxted, P. F. L.; <strong>McCormac, J.</strong>; Miller, G. R. M.; Moulds, V.; Moutou, C.; Norton, A. J.;
+                                            Parley, N.; Pepe, F.; Pollacco, D.; Segransan, D.; Simpson, E.; Skillen, I.; Smith, A. M. S.; Udry, S.; Wheatley, P. J. </p>
+                        <p class='date'> September 2011 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2011AJ....142...86E">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> WASP-40b: Independent Discovery of the 0.6 M Transiting Exoplanet HAT-P-27b </p>
+                        <p class='authors'> Anderson, D. R.; Barros, S. C. C.; Boisse, I.; Bouchy, F.; Collier Cameron, A.; Faedi, F.; Hebrard, G.; Hellier, C.; Lendl, M.; Moutou, C.; Pollacco, D.; Santerne, A.; 
+                                            Smalley, B.; Smith, A. M. S.; Todd, I.; Triaud, A. H. M. J.; West, R. G.; Wheatley, P. J.; Bento, J.; Enoch, B.; Gillon, M.; Maxted, P. F. L.; <strong>McCormac, J.</strong>; Queloz, D.; 
+                                            Simpson, E. K.; Skillen, I. </p>
+                        <p class='date'> May 2011 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2011PASP..123..555A">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> Independent Discovery of the Transiting Exoplanet HAT-P-14b </p>
+                        <p class='authors'> Simpson, E. K.; Barros, S. C. C.; Brown, D. J. A.; Collier Cameron, A.; Pollacco, D.; Skillen, I.; Stempels, H. C.; Boisse, I.; Faedi, F.; Hébrard, G.; <strong>McCormac, J.</strong>; Sorensen, P.; Street, R. A.; 
+                                            Anderson, D.; Bento, J.; Bouchy, F.; Butters, O. W.; Enoch, B.; Haswell, C. A.; Hebb, L.; Hellier, C.; Holmes, S.; Horne, K.; Keenan, F. P.; Lister, T. A.; Maxted, P. F. L.; Miller, G. R. M.; Moulds, V.; 
+                                            Moutou, C.; Norton, A. J.; Parley, N.; Santerne, A.; Smalley, B.; Smith, A. M. S.; Todd, I.; Watson, C. A.; West, R. G.; Wheatley, P. J.</p>
+                        <p class='date'> May 2011 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2011AJ....141..161S">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> WASP-37b: A 1.8 M J Exoplanet Transiting a Metal-poor Star </p>
+                        <p class='authors'> Simpson, E. K.; Faedi, F.; Barros, S. C. C.; Brown, D. J. A.; Collier Cameron, A.; Hebb, L.; Pollacco, D.; Smalley, B.; Todd, I.; Butters, O. W.; Hébrard, G.; <strong>McCormac, J.</strong>; Miller, G. R. M.; Santerne, A.; 
+                                            Street, R. A.; Skillen, I.; Triaud, A. H. M. J.; Anderson, D. R.; Bento, J.; Boisse, I.; Bouchy, F.; Enoch, B.; Haswell, C. A.; Hellier, C.; Holmes, S.; Horne, K.; Keenan, F. P.; Lister, T. A.; Maxted, P. F. L.; 
+                                            Moulds, V.; Moutou, C.; Norton, A. J.; Parley, N.; Pepe, F.; Queloz, D.; Segransan, D.; Smith, A. M. S.; Stempels, H. C.; Udry, S.; Watson, C. A.; West, R. G.; Wheatley, P. J. </p>
+                        <p class='date'> January 2011 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2011AJ....141....8S">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> WASP-38b: a transiting exoplanet in an eccentric, 6.87d period orbit </p>
+                        <p class='authors'> Barros, S. C. C.; Faedi, F.; Collier Cameron, A.; Lister, T. A.; <strong>McCormac, J.</strong>; Pollacco, D.; Simpson, E. K.; Smalley, B.; Street, R. A.; Todd, I.; Triaud, A. H. M. J.; Boisse, I.; Bouchy, F.; Hébrard, G.; Moutou, C.; 
+                                            Pepe, F.; Queloz, D.; Santerne, A.; Segransan, D.; Udry, S.; Bento, J.; Butters, O. W.; Enoch, B.; Haswell, C. A.; Hellier, C.; Keenan, F. P.; Miller, G. R. M.; Moulds, V.; Norton, A. J.; Parley, N.; Skillen, I.; 
+                                            Watson, C. A.; West, R. G.; Wheatley, P. J. </p>
+                        <p class='date'> January 2011 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2011A%26A...525A..54B">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> GRB 111228A: NOT redshift. </p>
+                        <p class='authors'> Xu, D.; Fynbo, J. P. U.; <strong>McCormac, J.</strong>; Jakobsson, P. </p>
+                        <p class='date'> January 2011 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2011GCN..12764...1X">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> GRB 111228A: NOT optical observation. </p>
+                        <p class='authors'> Xu, D.; Fynbo, J. P. U.; <strong>McCormac, J.</strong>; Jakobsson, P.  </p>
+                        <p class='date'> January 2011 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2011GCN..12750...1X">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> GRB 110128A: afterglow detection from NOT. </p>
+                        <p class='authors'> de Ugarte Postigo, A.; Malesani, D.; <strong>McCormac, J.</strong>; Jakobsson, P. </p>
+                        <p class='date'> January 2011 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2011GCN..11605...1D">ADS</a>
+                        </p>
+                    </div>
+            
+                    <!-- 
+                    <div class='paper'>
+                        <p class='title'> Title </p>
+                        <p class='authors'> Authors </p>
+                        <p class='date'> Date </p>
+                        <p class='journal'>
+                            <a href="">ADS</a>
+                            <a href="">arXiv</a>
+                            <a href="">REF_JOURNAL</a>
+                        </p>
+                    </div>
+                     -->
+ 
+            </div>
+            
+        </div>
+    </div>   
+</body>
+</html>
