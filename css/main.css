@@ -39,6 +39,20 @@ body {
             align-items: flex-start;
 }
 
+.narrowwidth{
+    width:500px;
+    margin:0 auto;
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-flex-flow: row wrap;
+            flex-flow: row wrap;
+    -webkit-justify-content: center;
+            justify-content: center; 
+    -webkit-align-items: flex-start;
+            align-items: flex-start;
+}
+
+
 #navbar{
     float:left;
 }
@@ -200,6 +214,15 @@ iframe {
 
 .break{
     clear: both;
+}
+
+.highlight_reference a{
+    text-decoration: none;
+    color: #FF9900;
+}
+
+.problem_explanation{
+
 }
 
 /* Web Dev page */
