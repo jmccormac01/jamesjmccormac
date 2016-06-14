@@ -70,9 +70,6 @@
                 <img src="img/anil_jonay.jpg">
             </div>
 
-            <div id='construction'>
-                <h1>Under Construction</h1>
-            </div>
         </div>
     </div>   
 </body>

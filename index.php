@@ -38,10 +38,6 @@
                 <img src="img/me.png">
             </div>
 
-            <div id='construction'>
-                <h1>Under Construction</h1>
-            </div>
-            
             <!-- 
             <div id='twitter'>
                 <a class="twitter-timeline" href="https://twitter.com/jmccormac001" data-widget-id="688138208245231618">Tweets by @jmccormac001</a>

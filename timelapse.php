@@ -24,9 +24,6 @@
             <!-- Work. -->
             <iframe width="840" height="472.5" src="https://www.youtube.com/embed/A-XOlZU62SQ" frameborder="0" allowfullscreen></iframe>
 
-            <div id='construction'>
-                <h1>Under Construction</h1>
-            </div>
         </div>
     </div>   
 </body>

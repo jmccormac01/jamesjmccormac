@@ -66,10 +66,6 @@
                 </p>
             </div>            
 
-            <div id='construction'>
-                <h1>Under Construction</h1>
-            </div>
-
             <div id='githistory'>
                 <div class="calendar">
                     Loading the data just for you.

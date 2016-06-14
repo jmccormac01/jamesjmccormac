@@ -8,10 +8,6 @@
     <link rel="stylesheet" href="css/main.css" type="text/css">
 </head>
 
-<!-- Ideas:
-    resize images to match their width in pixels as displayed
- -->
-
 <body>
     <div id='main'>
         <div class='fixedwidth'>
@@ -66,10 +62,6 @@
                 </p>
             </div>
 
-            <div id='construction'>
-                <h1>Under Construction</h1>
-            </div>
-            
         </div>
     </div>   
 </body>

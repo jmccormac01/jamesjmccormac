@@ -225,6 +225,18 @@ iframe {
 
 }
 
+/* Pyro4 page*/
+
+h1 a{
+    text-decoration: none;
+    color: #FF9900;
+    font-weight: 400; 
+}
+
+h1 a:hover {
+    color: #FF5A09;
+}
+
 /* Web Dev page */
 
 #web_dev_summary {
