@@ -18,9 +18,159 @@
                 <?php
                     include("includes/nav.html");
                 ?>
-            </div>    
-            
+            </div>
+
             <div id='publications'>
+                <h2>2016</h2>
+
+                    <div class='paper'>
+                        <p class='title'> WASP-92b, WASP-93b and WASP-118b: three new transiting close-in giant planets </p>
+                        <p class='authors'> Hay, K. L.; Collier-Cameron, A.; Doyle, A. P.; Hébrard, G.; Skillen, I.; Anderson, D. R.; Barros, S. C. C.; 
+                                            Brown, D. J. A.; Bouchy, F.; Busuttil, R.; Delorme, P.; Delrez, L.; Demangeon, O.; Díaz, R. F.; Gillon, M.; 
+                                            Gómez Maqueo Chew, Y.; Gonzàlez, E.; Hellier, C.; Holmes, S.; Jarvis, J. F.; Jehin, E.; Joshi, Y. C.; Kolb, U.; 
+                                            Lendl, M.; Maxted, P. F. L.; <strong>McCormac, J.</strong>; Miller, G. R. M.; Mortier, A.; Pallé, E.; 
+                                            Pollacco, D.; Prieto-Arranz, J.; Queloz, D.; Ségransan, D.; Simpson, E. K.; Smalley, B.; Southworth, J.; 
+                                            Triaud, A. H. M. J.; Turner, O. D.; Udry, S.; Vanhuysse, M.; West, R. G.; Wilson, P. A. </p>
+                        <p class='date'> October 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016MNRAS.463.3276H">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'>  The Astropy Problem </p>
+                        <p class='authors'> Muna, Demitri; Alexander, Michael; Allen, Alice; Ashley, Richard; Asmus, Daniel; Azzollini, Ruyman; Bannister, Michele; 
+                                            Beaton, Rachael; Benson, Andrew; Berriman, G. Bruce; Bilicki, Maciej; Boyce, Peter; Bridge, Joanna; Cami, Jan; 
+                                            Cangi, Eryn; Chen, Xian; Christiny, Nicholas; Clark, Christopher; Collins, Michelle; Comparat, Johan; Cook, Neil; 
+                                            Croton, Darren; Delberth Davids, Isak; Depagne, Éric; Donor, John; dos Santos, Leonardo A.; Douglas, Stephanie; 
+                                            Du, Alan; Durbin, Meredith; Erb, Dawn; Faes, Daniel; Fernández-Trincado, J. G.; Foley, Anthony; Fotopoulou, Sotiria; 
+                                            Frimann, Søren; Frinchaboy, Peter; Garcia-Dias, Rafael; Gawryszczak, Artur; George, Elizabeth; Gonzalez, Sebastian; 
+                                            Gordon, Karl; Gorgone, Nicholas; Gosmeyer, Catherine; Grasha, Katie; Greenfield, Perry; Grellmann, Rebekka; 
+                                            Guillochon, James; Gurwell, Mark; Haas, Marcel; Hagen, Alex; Haggard, Daryl; Haines, Tim; Hall, Patrick; Hellwing, Wojciech; 
+                                            Herenz, Edmund Christian; Hinton, Samuel; Hlozek, Renee; Hoffman, John; Holman, Derek; Holwerda, Benne Willem; Horton, Anthony; 
+                                            Hummels, Cameron; Jacobs, Daniel; Juel Jensen, Jens; Jones, David; Karick, Arna; Kelley, Luke; Kenworthy, Matthew; 
+                                            Kitchener, Ben; Klaes, Dominik; Kohn, Saul; Konorski, Piotr; Krawczyk, Coleman; Kuehn, Kyler; Kuutma, Teet; Lam, Michael T.; 
+                                            Lane, Richard; Liske, Jochen; Lopez-Camara, Diego; Mack, Katherine; Mangham, Sam; Mao, Qingqing; Marsh, David J. E.; 
+                                            Mateu, Cecilia; Maurin, Loïc; <strong>McCormac, James</strong>; Momcheva, Ivelina; Monteiro, Hektor; Mueller, Michael; 
+                                            Munoz, Roberto; Naidu, Rohan; Nelson, Nicholas; Nitschelm, Christian; North, Chris; Nunez-Iglesias, Juan; Ogaz, Sara; 
+                                            Owen, Russell; Pare, John; Patrício, Vera; Pepper, Joshua; Perrin, Marshall; Pickering, Timothy; Piscionere, Jennifer; 
+                                            Pogge, Richard; Poleski, Radek; Pourtsidou, Alkistis; Price-Whelan, Adrian M.; Rawls, Meredith L.; Read, Shaun; Rees, Glen; 
+                                            Rein, Hanno; Rice, Thomas; Riemer-Sørensen, Signe; Rusomarov, Naum; Sanchez, Sebastian F.; Santander-García, Miguel; Sarid, Gal; 
+                                            Schoenell, William; Scholz, Aleks; Schuhmann, Robert L.; Schuster, William; Scicluna, Peter; Seidel, Marja; Shao, Lijing; 
+                                            Sharma, Pranav; Shulevski, Aleksandar; Shupe, David; Sifón, Cristóbal; Simmons, Brooke; Sinha, Manodeep; Skillen, Ian; 
+                                            Soergel, Bjoern; Spriggs, Thomas; Srinivasan, Sundar; Stevens, Abigail; Streicher, Ole; Suchyta, Eric; Tan, Joshua; 
+                                            Telford, O. Grace; Thomas, Romain; Tonini, Chiara; Tremblay, Grant; Tuttle, Sarah; Urrutia, Tanya; Vaughan, Sam; 
+                                            Verdugo, Miguel; Wagner, Alexander; Walawender, Josh; Wetzel, Andrew; Willett, Kyle; Williams, Peter K. G.; Yang, Guang; 
+                                            Zhu, Guangtun; Zonca, Andrea
+                        <p class='date'> October 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016arXiv161003159M">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> K2-30 b and K2-34 b: Two inflated hot Jupiters around solar-type stars </p>
+                        <p class='authors'> Lillo-Box, J.; Demangeon, O.; Santerne, A.; Barros, S. C. C.; Barrado, D.; Hébrard, G.; Osborn, H. P.; Armstrong, D. J.; 
+                                            Almenara, J.-M.; Boisse, I.; Bouchy, F.; Brown, D. J. A.; Courcol, B.; Deleuil, M.; Delgado Mena, E.; Díaz, R. F.; Kirk, J.; 
+                                            Lam, K. W. F.; <strong>McCormac, J.</strong>; Pollacco, D.; Rajpurohit, A.; Rey, J.; Santos, N. C.; Sousa, S. G.; 
+                                            Tsantaki, M.; Wilson, P. A. </p>
+                        <p class='date'> October 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016A%26A...594A..50L">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> WASP-113b and WASP-114b, two inflated hot Jupiters with contrasting densities </p>
+                        <p class='authors'> Barros, S. C. C.; Brown, D. J. A.; Hébrard, G.; Gómez Maqueo Chew, Y.; Anderson, D. R.; Boumis, P.; Delrez, L.; Hay, K. L.; 
+                                            Lam, K. W. F.; Llama, J.; Lendl, M.; <strong>McCormac, J.</strong>; Skiff, B.; Smalley, B.; Turner, O.; Vanhuysse, M.; Armstrong, D. J.; 
+                                            Boisse, I.; Bouchy, F.; Collier Cameron, A.; Faedi, F.; Gillon, M.; Hellier, C.; Jehin, E.; Liakos, A.; Meaburn, J.; Osborn, H. P.; 
+                                            Pepe, F.; Plauchu-Frayn, I.; Pollacco, D.; Queloz, D.; Rey, J.; Spake, J.; Ségransan, D.; Triaud, A. H. M.; Udry, S.; Walker, S. R.; 
+                                            Watson, C. A.; West, R. G.; Wheatley, P. J. </p>
+                        <p class='date'> October 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016A%26A...593A.113B">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> The Next Generation Transit Survey Becomes Operational at Paranal </p>
+                        <p class='authors'> West, R. G.; Pollacco, D.; Wheatley, P.; Goad, M.; Queloz, D.; Rauer, H.; Watson, C.; Udry, S.; Bannister, N.; Bayliss, D.; 
+                                            Bouchy, F.; Burleigh, M.; Cabrera, J.; Chaushev, A.; Chazelas, B.; Crausaz, M.; Csizmadia, S.; Eigmüller, P.; Erikson, A.; 
+                                            Genolet, L.; Gillen, E.; Grange, A.; Günther, M.; Hodgkin, S.; Kirk, J.; Lambert, G.; Louden, T.; <strong>McCormac, J.</strong>; 
+                                            Metrailler, L.; Neveu, M.; Smith, A.; Thompson, A.; Raddi, R.; Walker, S. R.; Jenkins, J.; Jordán, A. </p>
+                        <p class='date'> September 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016Msngr.165...10W">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> Supernova 2014J at M82 - II. Direct analysis of a middle-class Type Ia supernova </p>
+                        <p class='authors'> Vallely, Patrick; Moreno-Raya, M. E.; Baron, E.; Ruiz-Lapuente, Pilar; Domínguez, I.; Galbany, Lluís; González Hernández, J. I.; 
+                                            Méndez, J.; Hamuy, M.; López-Sánchez, A. R.; Catalán, S.; Cooke, E.; Fariña, C.; Génova-Santos, R.; Karjalainen, R.; Lietzen, H.; 
+                                            <strong>McCormac, J.</strong>; Riddick, F.; Rubiño-Martín, J. A.; Skillen, I.; Tudor, V.; Vaduvescu, O. </p>
+                        <p class='date'> August 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016MNRAS.460.1614V">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> WASP-86b and WASP-102b: super-dense versus bloated planets </p>
+                        <p class='authors'>  Faedi, F.; Gómez Maqueo Chew, Y.; Pollacco, D.; Brown, D. J. A.; Hébrard, G.; Smalley, B.; Lam, K. W. F.; Veras, D.; 
+                                             Anderson, D.; Doyle, A. P.; Gillon, M.; Goad, M. R.; Lendl, M.; Mancini, L.; <strong>McCormac, J.</strong>; Plauchu-Frayn, I.; 
+                                             Prieto-Arranz, J.; Scholz, A.; Street, R.; Triaud, A. H. M.; West, R.; Wheatley, P. J.; Armstrong, D. J.; Barros, S. C. C.; 
+                                             Boisse, I.; Bouchy, F.; Boumis, P.; Collier Cameron, A.; Haswell, C. A.; Hay, K. L.; Hellier, C.; Kolb, U.; Maxted, P. F. L.; 
+                                             Norton, A. J.; Osborn, H. P.; Palle, E.; Pepe, F.; Queloz, D.; Ségransan, D.; Udry, S.; Wilson, P. A. </p>
+                        <p class='date'> August 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016arXiv160804225F">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> From Dense Hot Jupiter to Low Density Neptune: The Discovery of WASP-127b, WASP-136b and WASP-138b </p>
+                        <p class='authors'> Lam, K. W. F.; Faedi, F.; Brown, D. J. A.; Anderson, D. R.; Delrez, L.; Gillon, M.; Hébrard, G.; Lendl, M.; Mancini, L.; 
+                                            Southworth, J.; Smalley, B.; Triaud, A. H. M.; Turner, O. D.; Hay, K. L.; Armstrong, D. J.; Barros, S. C. C.; Bonomo, A. S.; 
+                                            Bouchy, F.; Boumis, P.; Collier Cameron, A.; Doyle, A. P.; Hellier, C.; Henning, T.; Jehin, E.; King, G.; Kirk, J.; Louden, T.; 
+                                            Maxted, P. F. L.; <strong>McCormac, J.</strong>; Osborn, H. P.; Palle, E.; Pepe, F.; Pollacco, D.; Prieto-Arranz, J.; 
+                                            Queloz, D.; Rey, J.; Ségransan, D.; Udry, S.; Walker, S.; West, R. G.; Wheatley, P. J. </p>
+                        <p class='date'> July 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016arXiv160707859L">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> K2-29 b/WASP-152 b: An Aligned and Inflated Hot Jupiter in a Young Visual Binary </p>
+                        <p class='authors'> Santerne, A.; Hébrard, G.; Lillo-Box, J.; Armstrong, D. J.; Barros, S. C. C.; Demangeon, O.; Barrado, D.; Debackere, A.; 
+                                            Deleuil, M.; Delgado Mena, E.; Montalto, M.; Pollacco, D.; Osborn, H. P.; Sousa, S. G.; Abe, L.; Adibekyan, V.; Almenara, J.-M.; 
+                                            André, P.; Arlic, G.; Barthe, G.; Bendjoya, P.; Behrend, R.; Boisse, I.; Bouchy, F.; Boussier, H.; Bretton, M.; Brown, D. J. A.; 
+                                            Carry, B.; Cailleau, A.; Conseil, E.; Coulon, G.; Courcol, B.; Dauchet, B.; Dalouzy, J.-C.; Deldem, M.; Desormières, O.; 
+                                            Dubreuil, P.; Fehrenbach, J.-M.; Ferratfiat, S.; Girelli, R.; Gregorio, J.; Jaecques, S.; Kugel, F.; Kirk, J.; Labrevoir, O.; 
+                                            Lachurié, J.-C.; Lam, K. W. F.; Le Guen, P.; Martinez, P.; Maurin, L. P. A.; <strong>McCormac, J.</strong>; Pioppa, J.-B.; 
+                                            Quadri, U.; Rajpurohit, A.; Rey, J.; Rivet, J.-P.; Roy, R.; Santos, N. C.; Signoret, F.; Strabla, L.; Suarez, O.; Toublanc, D.; 
+                                            Tsantaki, M.; Vienney, J.-M.; Wilson, P. A.; Bachschmidt, M.; Colas, F.; Gerteis, O.; Louis, P.; Mario, J.-C.; Marlot, C.; 
+                                            Montier, J.; Perroud, V.; Pic, V.; Romeuf, D.; Ubaud, S.; Verilhac, D. </p>
+                        <p class='date'> June 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016ApJ...824...55S">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
+                        <p class='title'> EPIC212521166 b: a Neptune-mass planet with Earth-like density </p>
+                        <p class='authors'> Osborn, H. P.; Santerne, A.; Barros, S. C. C.; Armstrong, D. J.; Santos, N. C.; Hojjatpanah, S.; Demangeon, O.; 
+                                            Adibekyan, V.; Almenara, J. M.; Barrado, D.; Bayliss, D.; Boisse, I.; Bouchy, F.; Brown, D. J. A.; Deleuil, M.; 
+                                            Delgado Mena, E.; Hébrard, G.; Kirk, J.; King, G. W.; Lam, K. W. F.; Lillo-Box, J.; Louden, T. M.; Lovis, C.; 
+                                            Marmier, M.; <strong>McCormac, J.</strong>; Pollacco, D.; Sousa, S. G.; Udry, S.; Walker, S. R. </p>
+                        <p class='date'> May 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016arXiv160504291O">ADS</a>
+                        </p>
+                    </div>
+
                 <h2>2015</h2>
                     <div class='paper'>
                         <p class='title'>K2 Variable Catalogue II: Machine Learning Classification of Variable Stars and Eclipsing Binaries in K2 Fields 0-4</p>
@@ -398,8 +548,8 @@
                             <a href="http://adsabs.harvard.edu/abs/2011GCN..11605...1D">ADS</a>
                         </p>
                     </div>
-            
-                    <!-- 
+
+                    <!--
                     <div class='paper'>
                         <p class='title'> Title </p>
                         <p class='authors'> Authors </p>
@@ -411,10 +561,10 @@
                         </p>
                     </div>
                      -->
- 
+
             </div>
-            
+
         </div>
-    </div>   
+    </div>
 </body>
 </html>
