@@ -24,6 +24,17 @@
                 <h2>2016</h2>
 
                     <div class='paper'>
+                        <p class='title'> The Next Generation Transit Survey - Prototyping Phase </p>
+                        <p class='authors'> <strong>McCormac, James</strong>; Pollacco, Don; Wheatley, Peter; West, Richard; Walker, Simon; Bento, Joao; Skillen, Ian; Faedi,
+                                            Francesca; Burleigh, Matt; Casewell, Sarah; Chazelas, Bruno; Genolet, Ludovic; Gibson, Neale; Goad, Mike; Lawrie,
+                                            Katherine; Ryans, Robert; Todd, Ian; Udry, Stephan; Watson, Christopher </p>
+                        <p class='date'> Nov 2016 </p>
+                        <p class='journal'>
+                            <a href="http://adsabs.harvard.edu/abs/2016arXiv161100691M">ADS</a>
+                        </p>
+                    </div>
+
+                    <div class='paper'>
                         <p class='title'> WASP-92b, WASP-93b and WASP-118b: three new transiting close-in giant planets </p>
                         <p class='authors'> Hay, K. L.; Collier-Cameron, A.; Doyle, A. P.; Hébrard, G.; Skillen, I.; Anderson, D. R.; Barros, S. C. C.; 
                                             Brown, D. J. A.; Bouchy, F.; Busuttil, R.; Delorme, P.; Delrez, L.; Demangeon, O.; Díaz, R. F.; Gillon, M.; 
