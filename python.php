@@ -1,28 +1,26 @@
-<!doctype html>
-<html>
-<head>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Python</title>
-    <meta charset="utf-8" />
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="css/main.css" type="text/css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
     <!-- Prepare a container for your calendar. -->
     <script src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"></script>
     <!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
     <link rel="stylesheet" href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"/>
-</head>
+  </head>
 
-
-<body>
-    <div id='main'>
-        <div class='fixedwidth'>
-            <div id='topbar'>
-                <!-- NAV -->
-                <?php
-                    include("includes/nav.html");
-                ?>
-            </div>
-            <div id='python_summary'>    
+  <body>
+        <?php 
+            include('includes/nav.html');
+        ?>
+        <div class='container'>
+            <div id='python_summary'>
                 <p> 
                     Most of my code is written in Python. Everything from my Ph.D was in Python 
                     as were all the scripts I wrote while working at the ING on La Palma. 
@@ -31,10 +29,9 @@
                     projects, creating repositories and pushing them to GitHub. I am tidying up and 
                     documenting those that can be made public. My plan for this page is to highlight 
                     anything I found interesting when coding a particular problem in Python, plus links
-                    to my public repositories. 
+                    to my public repositories. The python modules I mainly use are:
                 </p>
 
-                The python modules I mainly use are:
                 <ul>
                     <li><a href="http://www.scipy.org/">SciPy</a></li>
                     <li><a href="http://www.numpy.org/">NumPy</a></li>
@@ -64,18 +61,20 @@
                     Below is a summary of my public activity on GitHub for the past year. I will add snippets 
                     and Python tips here over time.
                 </p>
-            </div>            
-
-            <div id='githistory'>
-                <div class="calendar">
-                    Loading the data just for you.
-                    <script>
-                        new GitHubCalendar(".calendar", "jmccormac01");
-                    </script>
+            </div>
+            <div class='row hidden-sm-down'>
+                <div id='githistory' class='container center-block'>
+                    <div class="calendar">
+                        Loading the data just for you.
+                        <script>
+                            new GitHubCalendar(".calendar", "jmccormac01");
+                        </script>
+                    </div>
                 </div>
             </div>
-
         </div>
-    </div>   
-</body>
+    <!-- jQuery first, then Bootstrap JS. -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+  </body>
 </html>
