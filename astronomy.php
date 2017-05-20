@@ -30,9 +30,9 @@
                     NGTS is surveying the southern sky for transiting exoplanets around bright stars and is 
                     sensitive to Neptune and super-Earth sized exoplanets.
 
-                    NGTS has been observing robotically since January 2015 and we are currently running with 8 of 12 
-                    telescopes. The final 4 cameras will be installed in February 2016 and the first exoplanet 
-                    discoveries are immanent.
+                    NGTS has been observing robotically since January 2015. The 12th telescope was installed in 
+                    Feb 2016. We recently completed our first season of survey observations and the publication
+                    of our initial discoveries is imminent.
                 </p>
             </div>
 
@@ -59,7 +59,7 @@
                 <p class='facility_summary'> <!-- class='facility_summary' -->
                     SuperWASP (Wide Angle Survey for Planets) consists of 2 robotic telescopes (ORM and South Africa) 
                     each with 8 wide field cameras (Cannon 200mm f/1.8) and has been in operation since 2004. 
-                    With over 150 exoplanets discovered and confirmed, SuperWASP is the most sucessful ground-based 
+                    With over 160 exoplanets discovered and confirmed, SuperWASP is the most sucessful ground-based 
                     transiting exoplanet survey to date. 
                 </p>
             </div>
