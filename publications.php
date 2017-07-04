@@ -20,18 +20,43 @@
             include('includes/nav.html');
         ?> 
         <div id='publications' class='container'>
-            <h1>2016</h1>
+            <h1>2017</h1>
 
+                <div class='paper'>
+                    <p class='title'> Rayleigh scattering in the transmission spectrum of HAT-P-18b </p>
+                    <p class='authors'> Kirk, J.; Wheatley, P. J.; Louden, T.; Doyle, A. P.; Skillen, I.; 
+                                        <strong>McCormac, J.</strong>; Irwin, P. G. J.; Karjalainen, R. </p>
+                    <p class='date'> May 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2017MNRAS.468.3907K">ADS</a>
+                    </p>
+                </div>
+                
                 <div class='paper'>
                     <p class='title'> The Next Generation Transit Survey - Prototyping Phase </p>
                     <p class='authors'> <strong>McCormac, James</strong>; Pollacco, Don; Wheatley, Peter; West, Richard; Walker, Simon; Bento, Joao; Skillen, Ian; Faedi,
                                         Francesca; Burleigh, Matt; Casewell, Sarah; Chazelas, Bruno; Genolet, Ludovic; Gibson, Neale; Goad, Mike; Lawrie,
                                         Katherine; Ryans, Robert; Todd, Ian; Udry, Stephan; Watson, Christopher </p>
-                    <p class='date'> Nov 2016 </p>
+                    <p class='date'> Feb 2017 </p>
                     <p class='journal'>
                         <a href="http://adsabs.harvard.edu/abs/2016arXiv161100691M">ADS</a>
                     </p>
                 </div>
+
+                <div class='paper'>
+                    <p class='title'> From Dense Hot Jupiter to Low Density Neptune: The Discovery of WASP-127b, WASP-136b and WASP-138b </p>
+                    <p class='authors'> Lam, K. W. F.; Faedi, F.; Brown, D. J. A.; Anderson, D. R.; Delrez, L.; Gillon, M.; Hébrard, G.; Lendl, M.; Mancini, L.; 
+                                        Southworth, J.; Smalley, B.; Triaud, A. H. M.; Turner, O. D.; Hay, K. L.; Armstrong, D. J.; Barros, S. C. C.; Bonomo, A. S.; 
+                                        Bouchy, F.; Boumis, P.; Collier Cameron, A.; Doyle, A. P.; Hellier, C.; Henning, T.; Jehin, E.; King, G.; Kirk, J.; Louden, T.; 
+                                        Maxted, P. F. L.; <strong>McCormac, J.</strong>; Osborn, H. P.; Palle, E.; Pepe, F.; Pollacco, D.; Prieto-Arranz, J.; 
+                                        Queloz, D.; Rey, J.; Ségransan, D.; Udry, S.; Walker, S.; West, R. G.; Wheatley, P. J. </p>
+                    <p class='date'> Feb 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2016arXiv160707859L">ADS</a>
+                    </p>
+                </div>
+
+            <h1>2016</h1>
 
                 <div class='paper'>
                     <p class='title'> WASP-92b, WASP-93b and WASP-118b: three new transiting close-in giant planets </p>
@@ -41,7 +66,7 @@
                                         Lendl, M.; Maxted, P. F. L.; <strong>McCormac, J.</strong>; Miller, G. R. M.; Mortier, A.; Pallé, E.; 
                                         Pollacco, D.; Prieto-Arranz, J.; Queloz, D.; Ségransan, D.; Simpson, E. K.; Smalley, B.; Southworth, J.; 
                                         Triaud, A. H. M. J.; Turner, O. D.; Udry, S.; Vanhuysse, M.; West, R. G.; Wilson, P. A. </p>
-                    <p class='date'> October 2016 </p>
+                    <p class='date'> December 2016 </p>
                     <p class='journal'>
                         <a href="http://adsabs.harvard.edu/abs/2016MNRAS.463.3276H">ADS</a>
                     </p>
@@ -136,19 +161,6 @@
                     <p class='date'> August 2016 </p>
                     <p class='journal'>
                         <a href="http://adsabs.harvard.edu/abs/2016arXiv160804225F">ADS</a>
-                    </p>
-                </div>
-
-                <div class='paper'>
-                    <p class='title'> From Dense Hot Jupiter to Low Density Neptune: The Discovery of WASP-127b, WASP-136b and WASP-138b </p>
-                    <p class='authors'> Lam, K. W. F.; Faedi, F.; Brown, D. J. A.; Anderson, D. R.; Delrez, L.; Gillon, M.; Hébrard, G.; Lendl, M.; Mancini, L.; 
-                                        Southworth, J.; Smalley, B.; Triaud, A. H. M.; Turner, O. D.; Hay, K. L.; Armstrong, D. J.; Barros, S. C. C.; Bonomo, A. S.; 
-                                        Bouchy, F.; Boumis, P.; Collier Cameron, A.; Doyle, A. P.; Hellier, C.; Henning, T.; Jehin, E.; King, G.; Kirk, J.; Louden, T.; 
-                                        Maxted, P. F. L.; <strong>McCormac, J.</strong>; Osborn, H. P.; Palle, E.; Pepe, F.; Pollacco, D.; Prieto-Arranz, J.; 
-                                        Queloz, D.; Rey, J.; Ségransan, D.; Udry, S.; Walker, S.; West, R. G.; Wheatley, P. J. </p>
-                    <p class='date'> July 2016 </p>
-                    <p class='journal'>
-                        <a href="http://adsabs.harvard.edu/abs/2016arXiv160707859L">ADS</a>
                     </p>
                 </div>
 
@@ -575,6 +587,11 @@
     <!-- jQuery first, then Bootstrap JS. -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+    <script>
+    $(document).ready(function(){
+        $('#publications_page').addClass('active');
+    });
+    </script>
   </body>
 </html>
 
