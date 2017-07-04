@@ -23,11 +23,11 @@
             <p>Below are a few timelapse videos from several projects that I've been involved with</p>
             <h1>Gravitational-wave Optical Transient Observer (GOTO)</h1>
             <div class='timelapse_container'>
-                <iframe class='timelapse' src="https://www.youtube.com/watch?v=6ImuRkCM8Os&index=1&list=PLwEaxpVUbVvsYXPZdFO3YRsDxtmhGbjdb" frameborder="0" allowfullscreen></iframe>
+                <iframe class='timelapse' src="https://www.youtube.com/v/=6ImuRkCM8Os&index=1&list=PLwEaxpVUbVvsYXPZdFO3YRsDxtmhGbjdb" frameborder="0" allowfullscreen></iframe>
             </div>
             <p> GOTO dome construction, part 1. We installed the wall sections of the 18 foot Astrohaven clam shell dome on 28 November 2016. A delayed start meant we could not finish construction of the roof sections that day. The dome was left partially built and completed the following day (credit: Paul Chote)</p>
             <div class='timelapse_container'>
-                <iframe class='timelapse' src="https://www.youtube.com/watch?v=Ms-dzrvVO0s&index=3&list=PLwEaxpVUbVvsYXPZdFO3YRsDxtmhGbjdb" frameborder="0" allowfullscreen></iframe>
+                <iframe class='timelapse' src="https://www.youtube.com/v/=Ms-dzrvVO0s&index=3&list=PLwEaxpVUbVvsYXPZdFO3YRsDxtmhGbjdb" frameborder="0" allowfullscreen></iframe>
             </div>
             <p>Dome construction, part 2. Here we complete the construction of the GOTO dome and close it for the first time after the sunsets and the rain arrived. Building a dome in winter is not advised ;) (credit: Paul Chote)</p>
             
