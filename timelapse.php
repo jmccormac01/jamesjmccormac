@@ -20,14 +20,29 @@
             include('includes/nav.html');
         ?>
         <div class='container'>
+            <p>Below are a few timelapse videos from several projects that I've been involved with</p>
+            <h1>Gravitational-wave Optical Transient Observer (GOTO)</h1>
+            <div class='timelapse_container'>
+                <iframe class='timelapse' src="https://www.youtube.com/watch?v=6ImuRkCM8Os&index=1&list=PLwEaxpVUbVvsYXPZdFO3YRsDxtmhGbjdb" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <p> GOTO dome construction, part 1. We installed the wall sections of the 18 foot Astrohaven clam shell dome on 28 November 2016. A delayed start meant we could not finish construction of the roof sections that day. The dome was left partially built and completed the following day (credit: Paul Chote)</p>
+            <div class='timelapse_container'>
+                <iframe class='timelapse' src="https://www.youtube.com/watch?v=Ms-dzrvVO0s&index=3&list=PLwEaxpVUbVvsYXPZdFO3YRsDxtmhGbjdb" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <p>Dome construction, part 2. Here we complete the construction of the GOTO dome and close it for the first time after the sunsets and the rain arrived. Building a dome in winter is not advised ;) (credit: Paul Chote)</p>
+            
             <!-- Warwick 1m Mirror Washing -->
+            <h1>Warwick 1m Telescope (Wim)</h1>
             <div class='timelapse_container'>
                 <iframe class='timelapse' src="https://www.youtube.com/embed/hTh0WNl_dAA" frameborder="0" allowfullscreen></iframe>
             </div>
-           <!-- Work. -->
+            <p>In this video I am giving the Warwick 1m primary mirror its first proper cleaning. First the mirror is cleaned using compressed air, then it is soaked quite liberally with deionised water to carry away large grains of Saharan sand (calima). We then use a special soapy solution and a natural sponge to dab the mirror clean. Several cycles are repeated. The mirror is dried with compressed air to leave a streak-free finish.</p>
+            <!-- Work. -->
+            <h1>Misc. Astronomy</h1>
             <div class='timelapse_container'>
                 <iframe class='timelapse' src="https://www.youtube.com/embed/A-XOlZU62SQ" frameborder="0" allowfullscreen></iframe>
             </div>
+            <p>A random collection of short timelapse videos stiched together. I accumulated these videos while working on the William Herschel Telescope in 2013 and 2014.</p>
         </div>
     <!-- jQuery first, then Bootstrap JS. -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
