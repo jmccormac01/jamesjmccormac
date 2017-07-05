@@ -26,7 +26,13 @@
                 <img src="img/Daniel_Adrian.jpg">
             </div>
             <div class='wide_photo'>
+                <img src="img/mis_amores.jpg">
+            </div>
+            <div class='wide_photo'>
                 <img src="img/NGTS_wide.jpg">
+            </div>
+            <div class='wide_photo'>
+                <img src="img/ngts_star_trail.jpg">
             </div>
             <div class='wide_photo'>
                 <img src="img/UT4_VST.jpg">
