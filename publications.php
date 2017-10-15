@@ -21,14 +21,88 @@
         ?> 
         <div id='publications' class='container'>
             <h1>2017</h1>
+                <div class='paper'>
+                    <p class='title'> Centroid vetting of transiting planet candidates from the Next Generation Transit Survey </p>
+                    <p class='authors'> Günther, Maximilian N.; Queloz, Didier; Gillen, Edward; <strong>McCormac, James</strong>;
+                                        Bayliss, Daniel; Bouchy, Francois; Walker, Simon. R.; West, Richard G.; Eigmüller, Philipp; 
+                                        Smith, Alexis M. S.; Armstrong, David J.; Burleigh, Matthew; Casewell, Sarah L.; 
+                                        Chaushev, Alexander P.; Goad, Michael R.; Grange, Andrew; Jackman, James; Jenkins, James S.;
+                                        Louden, Tom; Moyano, Maximiliano; Pollacco, Don; Poppenhaeger, Katja; Rauer, Heike; Raynard, Liam;
+                                        Thompson, Andrew P. G.; Udry, Stéphane; Watson, Christopher A.; Wheatley, Peter J. </p>
+                    <p class='date'> Nov 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2017MNRAS.472..295G">ADS</a>
+                    </p>
+                </div>
+                
+                <div class='paper'>
+                    <p class='title'> A population of faint low surface brightness galaxies in the Perseus cluster core </p>
+                    <p class='authors'> Wittmann, Carolin; Lisker, Thorsten; Ambachew Tilahun, Liyualem; Grebel, Eva K.;
+                                        Conselice, Christopher J.; Penny, Samantha; Janz, Joachim; Gallagher, John S.; 
+                                        Kotulla, Ralf; <strong>McCormac, James</strong> </p>
+                    <p class='date'> Sept 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2017MNRAS.470.1512W">ADS</a>
+                    </p>
+                </div>
+
+                <div class='paper'>
+                    <p class='title'> The EURONEAR Lightcurve Survey of Near Earth Asteroids </p>
+                    <p class='authors'> Vaduvescu, O.; Macias, A. Aznar; Tudor, V.; Predatu, M.; Galád, A.; Gajdoš, Š.;
+                                        Világi, J.; Stevance, H. F.; Errmann, R.; Unda-Sanzana, E.; Char, F.; Peixinho, N.;
+                                        Popescu, M.; Sonka, A.; Cornea, R.; Suciu, O.; Toma, R.; Santos-Sanz, P.; Sota, A.;
+                                        Licandro, J.; Serra-Ricart, M.; Morate, D.; Mocnik, T.; Diaz Alfaro, M.; Lopez-Martinez, F.;
+                                        <strong>McCormac, J.</strong>; Humphries, N. </p>
+                    <p class='date'> Aug 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2017EM%26P..120...41V">ADS</a>
+                    </p>
+                </div>
 
                 <div class='paper'>
                     <p class='title'> Rayleigh scattering in the transmission spectrum of HAT-P-18b </p>
                     <p class='authors'> Kirk, J.; Wheatley, P. J.; Louden, T.; Doyle, A. P.; Skillen, I.; 
                                         <strong>McCormac, J.</strong>; Irwin, P. G. J.; Karjalainen, R. </p>
-                    <p class='date'> May 2017 </p>
+                    <p class='date'> July 2017 </p>
                     <p class='journal'>
                         <a href="http://adsabs.harvard.edu/abs/2017MNRAS.468.3907K">ADS</a>
+                    </p>
+                </div>
+                
+                <div class='paper'>
+                    <p class='title'> MASCARA-1 b: A hot Jupiter transiting a bright m_V=8.3 A-star in a misaligned orbit </p>
+                    <p class='authors'> Talens, G. J. J.; Albrecht, S.; Spronck, J. F. P.; Lesage, A.-L.; Otten, G. P. P. L.; Stuik, R.; 
+                                        Van Eylen, V.; Van Winckel, H.; Pollacco, D.; <strong>McCormac, J.</strong>; Grundahl, F.;
+                                        Fredslund Andersen, M.; Antoci, V.; Snellen, I. A. G </p>
+                    <p class='date'> July 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2017arXiv170704262T">ADS</a>
+                    </p>
+                </div>
+
+                <div class='paper'>
+                    <p class='title'> MASCARA-2 b: A hot Jupiter transiting a m_V=7.6 A-star </p>
+                    <p class='authors'> Talens, G. J. J.; Justesen, A. B.; Albrecht, S.; <strong>McCormac, J.</strong>; 
+                                        Van Eylen, V.; Otten, G. P. P. L.; Murgas, F.; Palle, E.; Pollacco, D.; Stuik, R.; 
+                                        Spronck, J. F. P.; Lesage, A.-L.; Grundahl, F.; Fredslund Andersen, M.; Antoci, V.;
+                                        Snellen, I. A. G. </p>
+                    <p class='date'> July 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2017arXiv170701500T">ADS</a>
+                    </p>
+                </div>
+
+                <div class='paper'>
+                    <p class='title'> K2-110 b: a massive mini-Neptune exoplanet </p>
+                    <p class='authors'> Osborn, H. P.; Santerne, A.; Barros, S. C. C.; Santos, N. C.; Dumusque, X.; Malavolta, L.; 
+                                        Armstrong, D. J.; Hojjatpanah, S.; Demangeon, O.; Adibekyan, V.; Almenara, J.-M.; 
+                                        Barrado, D.; Bayliss, D.; Boisse, I.; Bouchy, F.; Brown, D. J. A.; Cameron, A. C.; 
+                                        Charbonneau, D.; Deleuil, M.; Delgado Mena, E.; Díaz, R. F.; Hébrard, G.; Kirk, J.; 
+                                        King, G. W.; Lam, K. W. F.; Latham, D.; Lillo-Box, J.; Louden, T. M.; Lovis, C.; Marmier, M.; 
+                                        <strong>McCormac, J.</strong>; Molinari, E.; Pepe, F.; Pollacco, D.; Sousa, S. G.; Udry, S.; Walker, S. R. </p>
+                    <p class='date'> July 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2017A%26A...604A..19O">ADS</a>
                     </p>
                 </div>
                 
