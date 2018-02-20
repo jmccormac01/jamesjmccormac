@@ -20,6 +20,72 @@
             include('includes/nav.html');
         ?> 
         <div id='publications' class='container'>
+            <h1>2018</h1>
+                <div class='paper'>
+                    <p class='title'> LRG-BEASTS III: ground-based transmission spectrum of the gas giant orbiting the cool dwarf WASP-80 </p>
+                    <p class='authors'> Kirk, J.; Wheatley, P. J.; Louden, T.; Skillen, I.; King, G. W.; <strong>McCormac, J.</strong>; Irwin, P. G. J. </p>
+                    <p class='date'> Feb 2018 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2018MNRAS.474..876K">ADS</a>
+                    </p>
+                </div>
+
+                <div class='paper'>
+                    <p class='title'> Qatar Exoplanet Survey: Qatar-6b—A Grazing Transiting Hot Jupiter </p>
+                    <p class='authors'> Alsubai, Khalid; Tsvetanov, Zlatan I.; Latham, David W.; Bieryla, Allyson; Esquerdo, Gilbert A.;
+                                        Mislis, Dimitris; Pyrzas, Stylianos; Foxell, Emma; <strong>McCormac, James</strong>; Baranec, Christoph;
+                                        Vilchez, Nicolas P. E.; West, Richard; Esamdin, Ali; Dang, Zhenwei; Dalee, Hani M.;
+                                        Al-Rajihi, Amani A.; Al-Harbi, Abeer Kh. </p>
+                    <p class='date'> Feb 2018 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2018AJ....155...52A">ADS</a>
+                    </p>
+                </div>
+
+                <div class='paper'>
+                    <p class='title'> The First Post-Kepler Brightness Dips of KIC 8462852 </p>
+                    <p class='authors'> Boyajian, Tabetha. S.; Alonso, Roi; Ammerman, Alex; Armstrong, David; Asensio Ramos, A.;
+                                        Barkaoui, K.; Beatty, Thomas G.; Benkhaldoun, Z.; Benni, Paul; Bentley, Rory O.; Berdyugin, Andrei;
+                                        Berdyugina, Svetlana; Bergeron, Serge; Bieryla, Allyson; Blain, Michaela G.; Capetillo Blanco, Alicia;
+                                        Bodman, Eva H. L.; Boucher, Anne; Bradley, Mark; Brincat, Stephen M.; Brink, Thomas G.; Briol, John;
+                                        Brown, David J. A.; Budaj, J.; Burdanov, A.; Cale, B.; Aznar Carbo, Miguel; Castillo García, R.;
+                                        Clark, Wendy J.; Clayton, Geoffrey C.; Clem, James L.; Coker, Phillip H.; Cook, Evan M.;
+                                        Copperwheat, Chris M.; Curtis, J. L.; Cutri, R. M.; Cseh, B.; Cynamon, C. H.; Daniels, Alex J.;
+                                        Davenport, James R. A.; Deeg, Hans J.; De Lorenzo, Roberto; de Jaeger, Thomas; Desrosiers, Jean-Bruno;
+                                        Dolan, John; Dowhos, D. J.; Dubois, Franky; Durkee, R.; Dvorak, Shawn; Easley, Lynn; Edwards, N.;
+                                        Ellis, Tyler G.; Erdelyi, Emery; Ertel, Steve; Farfán, Rafael. G.; Farihi, J.; Filippenko, Alexei V.;
+                                        Foxell, Emma; Gandolfi, Davide; Garcia, Faustino; Giddens, F.; Gillon, M.; González-Carballo, Juan-Luis;
+                                        González-Fernández, C.; González Hernández, J. I.; Graham, Keith A.; Greene, Kenton A.; Gregorio, J.;
+                                        Hallakoun, Na’ama; Hanyecz, Ottó; Harp, G. R.; Henry, Gregory W.; Herrero, E.; Hildbold, Caleb F.;
+                                        Hinzel, D.; Holgado, G.; Ignácz, Bernadett; Ilyin, Ilya; Ivanov, Valentin D.; Jehin, E.; Jermak, Helen E.; 
+                                        Johnston, Steve; Kafka, S.; Kalup, Csilla; Kardasis, Emmanuel; Kaspi, Shai; Kennedy, Grant M.; Kiefer, F.;
+                                        Kielty, C. L.; Kessler, Dennis; Kiiskinen, H.; Killestein, T. L.; King, Ronald A.; Kollar, V.; Korhonen, H.;
+                                        Kotnik, C.; Könyves-Tóth, Réka; Kriskovics, Levente; Krumm, Nathan; Krushinsky, Vadim; Kundra, E.;
+                                        Lachapelle, Francois-Rene; LaCourse, D.; Lake, P.; Lam, Kristine; Lamb, Gavin P.; Lane, Dave;
+                                        Lau, Marie Wingyee; Lewin, Pablo; Lintott, Chris; Lisse, Carey; Logie, Ludwig; Longeard, Nicolas;
+                                        Lopez Villanueva, M.; Whit Ludington, E.; Mainzer, A.; Malo, Lison; Maloney, Chris; Mann, A.; Mantero, A.;
+                                        Marengo, Massimo; Marchant, Jon; Martínez González, M. J.; Masiero, Joseph R.; Mauerhan, Jon C.;
+                                        <strong>McCormac, James</strong>; McNeely, Aaron; Meng, Huan Y. A.; Miller, Mike; Molnar, Lawrence A.;
+                                        Morales, J. C.; Morris, Brett M.; Muterspaugh, Matthew W.; Nespral, David; Nugent, C. R.; Nugent, Katherine M.;
+                                        Odasso, A.; O’Keeffe, Derek; Oksanen, A.; O’Meara, John M.; Ordasi, András; Osborn, Hugh; Ott, John J.;
+                                        Parks, J. R.; Rodriguez Perez, Diego; Petriew, Vance; Pickard, R.; Pál, András; Plavchan, P.;
+                                        Pollacco, Don; Pozo Nuñez, F.; Pozuelos, F. J.; Rau, Steve; Redfield, Seth; Relles, Howard; Ribas, Ignasi;
+                                        Richards, Jon; Saario, Joonas L. O.; Safron, Emily J.; Sallai, J. Martin; Sárneczky, Krisztián;
+                                        Schaefer, Bradley E.; Schumer, Clea F.; Schwartzendruber, Madison; Siegel, Michael H.; Siemion, Andrew P. V.;
+                                        Simmons, Brooke D.; Simon, Joshua D.; Simón-Díaz, S.; Sitko, Michael L.; Socas-Navarro, Hector; Sódor, Á.;
+                                        Starkey, Donn; Steele, Iain A.; Stone, Geoff; Strassmeier, Klaus G.; Street, R. A.; Sullivan, Tricia;
+                                        Suomela, J.; Swift, J. J.; Szabó, Gyula M.; Szabó, Róbert; Szakáts, Róbert; Szalai, Tamás; Tanner, Angelle M.;
+                                        Toledo-Padrón, B.; Tordai, Tamás; Triaud, Amaury H. M. J.; Turner, Jake D.; Ulowetz, Joseph H.;
+                                        Urbanik, Marian; Vanaverbeke, Siegfried; Vanderburg, Andrew; Vida, Krisztián; Vietje, Brad P.;
+                                        Vinkó, József; von Braun, K.; Waagen, Elizabeth O.; Walsh, Dan; Watson, Christopher A.; Weir, R. C.;
+                                        Wenzel, Klaus; Westendorp Plaza, C.; Williamson, Michael W.; Wright, Jason T.; Wyatt, M. C.; Zheng, WeiKang;
+                                        Zsidi, Gabriella </p>
+                    <p class='date'> Jan 2018 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2018ApJ...853L...8B">ADS</a>
+                    </p>
+                </div>
+
             <h1>2017</h1>
                 <div class='paper'>
                     <p class='title'> Centroid vetting of transiting planet candidates from the Next Generation Transit Survey </p>
@@ -32,6 +98,63 @@
                     <p class='date'> Nov 2017 </p>
                     <p class='journal'>
                         <a href="http://adsabs.harvard.edu/abs/2017MNRAS.472..295G">ADS</a>
+                    </p>
+                </div>
+
+                <div class='paper'>
+                    <p class='title'> The Next Generation Transit Survey (NGTS) </p>
+                    <p class='authors'> Wheatley, Peter J.; West, Richard G.; Goad, Michael R.; Jenkins, James S.; Pollacco, Don L.;
+                                        Queloz, Didier; Rauer, Heike; Udry, Stephane; Watson, Christopher A.; Chazelas, Bruno;
+                                        Eigmuller, Philipp; Lambert, Gregory; Genolet, Ludovic; <strong>McCormac, James</strong>; Walker, Simon;
+                                        Armstrong, David J.; Bayliss, Daniel; Bento, Joao; Bouchy, Francois; Burleigh, Matthew R.;
+                                        Cabrera, Juan; Casewell, Sarah L.; Chaushev, Alexander; Chote, Paul; Csizmadia, Szilard;
+                                        Erikson, Anders; Faedi, Francesca; Foxell, Emma; Gansicke, Boris T.; Gillen, Edward; Grange, Andrew;
+                                        Gunther, Maximilian N.; Hodgkin, Simon T.; Jackman, James; Jordan, Andres; Louden, Tom; Metrailler, Lionel;
+                                        Moyano, Maximiliano; Nielsen, Louise D.; Osborn, Hugh P.; Poppenhaeger, Katja; Raddi, Roberto;
+                                        Raynard, Liam; Smith, Alexis M. S.; Soto, Maritza; Titz-Weider, Ruth </p>
+                    <p class='date'> Oct 2017 </p>
+                    <p class='journal'>
+                        <a href="">ADS</a>
+                    </p>
+                </div>
+
+                <div class='paper'>
+                    <p class='title'> NGTS-1b: A hot Jupiter transiting an M-dwarf </p>
+                    <p class='authors'> Bayliss, Daniel; Gillen, Edward; Eigmuller, Philipp; <strong>McCormac, James</strong>; Alexander, Richard D.;
+                                        Armstrong, David J.; Booth, Rachel S.; Bouchy, Francois; Burleigh, Matthew R.; Cabrera, Juan; Casewell, Sarah L.;
+                                        Chaushev, Alexander; Chazelas, Bruno; Csizmadia, Szilard; Erikson, Anders; Faedi, Francesca; Foxell, Emma;
+                                        Gansicke, Boris T.; Goad, Michael R.; Grange, Andrew; Gunther, Maximilian N.; Hodgkin, Simon T.; Jackman, James;
+                                        Jenkins, James S.; Lambert, Gregory; Louden, Tom; Metrailler, Lionel; Moyano, Maximiliano; Pollacco, Don;
+                                        Poppenhaeger, Katja; Queloz, Didier; Raddi, Roberto; Rauer, Heike; Raynard, Liam; Smith, Alexis M. S.;
+                                        Soto, Maritza; Thompson, Andrew P. G.; Titz-Weider, Ruth; Udry, Stephane; Walker, Simon. R.; Watson, Christopher A.;
+                                        West, Richard G.; Wheatley, Peter J. </p>
+                    <p class='date'> Oct 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2017arXiv171011099B">ADS</a>
+                    </p>
+                </div>
+
+                <div class='paper'>
+                    <p class='title'> The discovery of WASP-151b, WASP-153b, WASP-156b: Insights on giant planet migration and the upper boundary of the Neptunian desert  </p>
+                    <p class='authors'> Demangeon, Olivier. D. S.; Faedi, F.; Hébrard, G.; Brown, D. J. A.; Barros, S. C. C.; Doyle, A. P.
+                                        ; Maxted, P. F. L.; Collier Cameron, A.; Hay, K. L.; Alikakos, J.; Anderson, D. R.; Armstrong, D. J.;
+                                        Boumis, P.; Bonomo, A. S.; Bouchy, F.; Haswell, C. A.; Hellier, C.; Kiefer, F.; Lam, K. W. F.; Mancini, L.;
+                                        <strong>McCormac, J.</strong>; Norton, A. J.; Osborn, H. P.; Palle, E.; Pepe, F.; Pollacco, D. L.; Prieto-Arranz, J.; 
+                                        Queloz, D.; Ségransan, D.; Smalley, B.; Triaud, A. H. M. J.; Udry, S.; West, R.; Wheatley, P. J. </p>
+                    <p class='date'> Oct 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2017arXiv171006321D">ADS</a>
+                    </p>
+                </div>
+ 
+                <div class='paper'>
+                    <p class='title'> MASCARA-1 b: A hot Jupiter transiting a bright m_V=8.3 A-star in a misaligned orbit </p>
+                    <p class='authors'> Talens, G. J. J.; Albrecht, S.; Spronck, J. F. P.; Lesage, A.-L.; Otten, G. P. P. L.; Stuik, R.; 
+                                        Van Eylen, V.; Van Winckel, H.; Pollacco, D.; <strong>McCormac, J.</strong>; Grundahl, F.;
+                                        Fredslund Andersen, M.; Antoci, V.; Snellen, I. A. G </p>
+                    <p class='date'> July 2017 </p>
+                    <p class='journal'>
+                        <a href="http://adsabs.harvard.edu/abs/2017A%26A...606A..73T">ADS</a>
                     </p>
                 </div>
                 
@@ -69,17 +192,6 @@
                     </p>
                 </div>
                 
-                <div class='paper'>
-                    <p class='title'> MASCARA-1 b: A hot Jupiter transiting a bright m_V=8.3 A-star in a misaligned orbit </p>
-                    <p class='authors'> Talens, G. J. J.; Albrecht, S.; Spronck, J. F. P.; Lesage, A.-L.; Otten, G. P. P. L.; Stuik, R.; 
-                                        Van Eylen, V.; Van Winckel, H.; Pollacco, D.; <strong>McCormac, J.</strong>; Grundahl, F.;
-                                        Fredslund Andersen, M.; Antoci, V.; Snellen, I. A. G </p>
-                    <p class='date'> July 2017 </p>
-                    <p class='journal'>
-                        <a href="http://adsabs.harvard.edu/abs/2017arXiv170704262T">ADS</a>
-                    </p>
-                </div>
-
                 <div class='paper'>
                     <p class='title'> MASCARA-2 b: A hot Jupiter transiting a m_V=7.6 A-star </p>
                     <p class='authors'> Talens, G. J. J.; Justesen, A. B.; Albrecht, S.; <strong>McCormac, J.</strong>; 
