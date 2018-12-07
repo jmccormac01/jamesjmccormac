@@ -15,10 +15,18 @@
     <div id='main'>
         <div class='fixedwidth'>
             <div id='topbar'>
-                <!-- NAV -->
-                <?php
-                    include("../includes/nav.html");
-                ?>
+            <nav>
+                <ul class='nav nav-pills'>
+                    <li id='home_page' class='nav-item'><a class='nav-link' href="/index.html">Home</a></li>
+                    <li id='astronomy_page'class='nav-item'><a class='nav-link' href="/astronomy.html">Astronomy</a></li>
+                    <li id='photography_page'class='nav-item hidden-xs-down'><a class='nav-link' href="/photography.html">Photography</a></li>
+                    <li id='timelapse_page'class='nav-item hidden-sm-down'><a class='nav-link' href="/timelapse.html">Time-lapse</a></li>
+                    <li id='publications_page'class='nav-item'><a class='nav-link' href="/publications.html">Publications</a></li>
+                    <li id='python_page'class='nav-item hidden-lg-down'><a class='nav-link' href="/python.html">Python</a></li>
+                    <li id='webdev_page'class='nav-item hidden-lg-down'><a class='nav-link' href="/webdev.html">Web Dev</a></li>
+                </ul>
+            </nav>
+
             </div>    
             
             <div class='narrowwidth'>
